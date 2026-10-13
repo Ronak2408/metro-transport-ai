@@ -1,0 +1,273 @@
+Source,Target,Type,Weight,Line
+Adarsh Nagar,Azadpur,Undirected,1,Yellow line
+Adarsh Nagar,Jahangirpuri,Undirected,1,Yellow line
+Aiims,Dilli Haat Ina,Undirected,1,Yellow line
+Aiims,Green Park,Undirected,1,Yellow line
+Akshardham,Mayur Vihar Phase 1,Undirected,1,Blue line
+Akshardham,Yamuna Bank,Undirected,1,Blue line
+Alpha 1 Greater Noida,Delta 1 Greater Noida,Undirected,1,Aqua line
+Alpha 1 Greater Noida,Pari Chowk Greater Noida,Undirected,1,Aqua line
+Anand Vihar,Ip Extension,Undirected,1,Pink line
+Anand Vihar,Karkar Duma,Undirected,2,Blue line branch / Pink line
+Anand Vihar,Kaushambi,Undirected,1,Blue line branch
+Arjan Garh,Ghitorni,Undirected,1,Yellow line
+Arjan Garh,Guru Dronacharya,Undirected,1,Yellow line
+Arthala,Hindon River,Undirected,1,Red line
+Arthala,Mohan Nagar,Undirected,1,Red line
+Ashok Park Main,Inderlok,Undirected,1,Green line
+Ashok Park Main,Punjabi Bagh,Undirected,1,Green line
+Ashok Park Main,Satguru Ram Singh Marg,Undirected,1,Green line branch
+Ashram,Sarai Kale Khan Hazrat Nizamuddin,Undirected,1,Pink line
+Ashram,Vinobapuri,Undirected,1,Pink line
+Azadpur,Majlis Park,Undirected,1,Pink line
+Azadpur,Model Town,Undirected,1,Yellow line
+Azadpur,Shalimar Bagh,Undirected,1,Pink line
+Badarpur Border,Sarai,Undirected,1,Voilet line
+Badarpur Border,Tughlakabad,Undirected,1,Voilet line
+Badkal Mor,Old Faridabad,Undirected,1,Voilet line
+Badkal Mor,Sector 28 Faridabad,Undirected,1,Voilet line
+Bahdurgarh City,Brigadier Hoshiar Singh,Undirected,1,Green line
+Bahdurgarh City,Pandit Shree Ram Sharma,Undirected,1,Green line
+Barakhamba,Mandi House,Undirected,1,Blue line
+Barakhamba,Rajiv Chowk,Undirected,1,Blue line
+Bata Chowk,Escorts Mujesar,Undirected,1,Voilet line
+Bata Chowk,Neelam Chowk Ajronda,Undirected,1,Voilet line
+Belvedere Towers,Cyber City,Undirected,1,Rapid Metro
+Belvedere Towers,Dlf Phase 2,Undirected,1,Rapid Metro
+Bhikaji Cama Place,Sarojini Nagar,Undirected,1,Pink line
+Bhikaji Cama Place,Sir Vishweshwaraiah Moti Bagh,Undirected,1,Pink line
+Botanical Garden,Golf Course,Undirected,1,Blue line
+Botanical Garden,Noida Sector 18,Undirected,1,Blue line
+Botanical Garden,Okhla Bird Sanctuary,Undirected,1,Magenta line
+Central Secretariat,Janpath,Undirected,1,Voilet line
+Central Secretariat,Khan Market,Undirected,1,Voilet line
+Central Secretariat,Patel Chowk,Undirected,1,Yellow line
+Central Secretariat,Udyog Bhawan,Undirected,1,Yellow line
+Chandni Chowk,Chawri Bazar,Undirected,1,Yellow line
+Chandni Chowk,Kashmere Gate,Undirected,1,Yellow line
+Chawri Bazar,New Delhi,Undirected,1,Yellow line
+Chhattarpur,Qutab Minar,Undirected,1,Yellow line
+Chhattarpur,Sultanpur,Undirected,1,Yellow line
+Chirag Delhi,Greater Kailash,Undirected,1,Magenta line
+Chirag Delhi,Panchsheel Park,Undirected,1,Magenta line
+Civil Lines,Kashmere Gate,Undirected,1,Yellow line
+Civil Lines,Vidhan Sabha,Undirected,1,Yellow line
+Cyber City,Moulsari Avenue,Undirected,1,Rapid Metro
+Dabri Mor Janakpuri South,Dashrath Puri,Undirected,1,Magenta line
+Dabri Mor Janakpuri South,Janak Puri West,Undirected,1,Magenta line
+Dashrath Puri,Palam,Undirected,1,Magenta line
+Delhi Aerocity,Dhaula Kuan,Undirected,1,Orange line
+Delhi Aerocity,Igi Airport,Undirected,1,Orange line
+Delhi Cantt,Durgabai Deshmukh South Campus,Undirected,1,Pink line
+Delhi Cantt,Naraina Vihar,Undirected,1,Pink line
+Delhi Gate,Ito,Undirected,1,Voilet line
+Delhi Gate,Jama Masjid,Undirected,1,Voilet line
+Delta 1 Greater Noida,Gnida Office,Undirected,1,Aqua line
+Depot Greater Noida,Gnida Office,Undirected,1,Aqua line
+Dhaula Kuan,Shivaji Stadium,Undirected,1,Orange line
+Dilli Haat Ina,Jor Bagh,Undirected,1,Yellow line
+Dilli Haat Ina,Sarojini Nagar,Undirected,1,Pink line
+Dilli Haat Ina,South Extension,Undirected,1,Pink line
+Dilshad Garden,Jhil Mil,Undirected,1,Red line
+Dilshad Garden,Shaheed Nagar,Undirected,1,Red line
+Dlf Phase 1,Sector 42 43,Undirected,1,Rapid Metro
+Dlf Phase 1,Sikandarpur,Undirected,1,Rapid Metro
+Dlf Phase 2,Sikandarpur,Undirected,1,Rapid Metro
+Dlf Phase 3,Moulsari Avenue,Undirected,1,Rapid Metro
+Durgabai Deshmukh South Campus,Sir Vishweshwaraiah Moti Bagh,Undirected,1,Pink line
+Dwarka,Dwarka Mor,Undirected,1,Blue line
+Dwarka,Dwarka Sector 14,Undirected,1,Blue line
+Dwarka,Nangli,Undirected,1,Gray line
+Dwarka Mor,Nawada,Undirected,1,Blue line
+Dwarka Sector 10,Dwarka Sector 11,Undirected,1,Blue line
+Dwarka Sector 10,Dwarka Sector 9,Undirected,1,Blue line
+Dwarka Sector 11,Dwarka Sector 12,Undirected,1,Blue line
+Dwarka Sector 12,Dwarka Sector 13,Undirected,1,Blue line
+Dwarka Sector 13,Dwarka Sector 14,Undirected,1,Blue line
+Dwarka Sector 21,Dwarka Sector 8,Undirected,1,Blue line
+Dwarka Sector 21,Igi Airport,Undirected,1,Orange line
+Dwarka Sector 8,Dwarka Sector 9,Undirected,1,Blue line
+East Azad Nagar,Krishna Nagar,Undirected,1,Pink line
+East Azad Nagar,Welcome,Undirected,1,Pink line
+Escorts Mujesar,Sant Surdas Sihi,Undirected,1,Voilet line
+Esi Basai Darapur,Punjabi Bagh West,Undirected,1,Pink line
+Esi Basai Darapur,Rajouri Garden,Undirected,1,Pink line
+Ghevra Metro Station,Mundka Industrial Area,Undirected,1,Green line
+Ghevra Metro Station,Tikri Kalan,Undirected,1,Green line
+Ghitorni,Sultanpur,Undirected,1,Yellow line
+Gokulpuri,Johri Enclave,Undirected,1,Pink line
+Gokulpuri,Maujpur,Undirected,1,Pink line
+Golf Course,Noida City Center,Undirected,1,Blue line
+Govind Puri,Kalkaji Mandir,Undirected,1,Voilet line
+Govind Puri,Okhla,Undirected,1,Voilet line
+Greater Kailash,Nehru Enclave,Undirected,1,Magenta line
+Green Park,Hauz Khas,Undirected,1,Yellow line
+Guru Dronacharya,Sikandarpur,Undirected,1,Yellow line
+Guru Tegh Bahadur Nagar,Model Town,Undirected,1,Yellow line
+Guru Tegh Bahadur Nagar,Vishwavidyalaya,Undirected,1,Yellow line
+Haiderpur Badli Mor,Jahangirpuri,Undirected,1,Yellow line
+Haiderpur Badli Mor,Rohini Sector 18 19,Undirected,1,Yellow line
+Hauz Khas,Iit Delhi,Undirected,1,Magenta line
+Hauz Khas,Malviya Nagar,Undirected,1,Yellow line
+Hauz Khas,Panchsheel Park,Undirected,1,Magenta line
+Hindon River,Shaheed Sthal,Undirected,1,Red line
+Huda City Centre,Iffco Chowk,Undirected,1,Yellow line
+Iffco Chowk,Mg Road,Undirected,1,Yellow line
+Iit Delhi,Rk Puram,Undirected,1,Magenta line
+Inderlok,Kanhaiya Nagar,Undirected,1,Red line
+Inderlok,Shastri Nagar,Undirected,1,Red line
+Indraprastha,Supreme Court,Undirected,1,Blue line
+Indraprastha,Yamuna Bank,Undirected,1,Blue line
+Ip Extension,Mandawali West Vinod Nagar,Undirected,1,Pink line
+Ito,Mandi House,Undirected,1,Voilet line
+Jaffrabad,Maujpur,Undirected,1,Pink line
+Jaffrabad,Welcome,Undirected,1,Pink line
+Jama Masjid,Lal Quila,Undirected,1,Voilet line
+Jamia Millia Islamia,Okhla Vihar,Undirected,1,Magenta line
+Jamia Millia Islamia,Sukhdev Vihar,Undirected,1,Magenta line
+Janak Puri East,Janak Puri West,Undirected,1,Blue line
+Janak Puri East,Tilak Nagar,Undirected,1,Blue line
+Janak Puri West,Uttam Nagar East,Undirected,1,Blue line
+Jangpura,Jawaharlal Nehru Stadium,Undirected,1,Voilet line
+Jangpura,Lajpat Nagar,Undirected,1,Voilet line
+Janpath,Mandi House,Undirected,1,Voilet line
+Jasola,Okhla,Undirected,1,Voilet line
+Jasola,Sarita Vihar,Undirected,1,Voilet line
+Jasola Vihar Shaheen Bagh,Kalindi Kunj,Undirected,1,Magenta line
+Jasola Vihar Shaheen Bagh,Okhla Vihar,Undirected,1,Magenta line
+Jawaharlal Nehru Stadium,Khan Market,Undirected,1,Voilet line
+Jhandewalan,Karol Bagh,Undirected,1,Blue line
+Jhandewalan,R K Ashram Marg,Undirected,1,Blue line
+Jhil Mil,Mansarovar Park,Undirected,1,Red line
+Johri Enclave,Shiv Vihar,Undirected,1,Pink line
+Jor Bagh,Lok Kalyan Marg,Undirected,1,Yellow line
+Kailash Colony,Moolchand,Undirected,1,Voilet line
+Kailash Colony,Nehru Place,Undirected,1,Voilet line
+Kalindi Kunj,Okhla Bird Sanctuary,Undirected,1,Magenta line
+Kalkaji Mandir,Nehru Enclave,Undirected,1,Magenta line
+Kalkaji Mandir,Nehru Place,Undirected,1,Voilet line
+Kalkaji Mandir,Okhla Nsic,Undirected,1,Magenta line
+Kanhaiya Nagar,Keshav Puram,Undirected,1,Red line
+Karkar Duma,Karkarduma Court,Undirected,1,Pink line
+Karkar Duma,Preet Vihar,Undirected,1,Blue line branch
+Karkarduma Court,Krishna Nagar,Undirected,1,Pink line
+Karol Bagh,Rajendra Place,Undirected,1,Blue line
+Kashmere Gate,Lal Quila,Undirected,1,Voilet line
+Kashmere Gate,Shastri Park,Undirected,1,Red line
+Kashmere Gate,Tis Hazari,Undirected,1,Red line
+Kaushambi,Vaishali,Undirected,1,Blue line branch
+Keshav Puram,Netaji Subash Place,Undirected,1,Red line
+Kirti Nagar,Moti Nagar,Undirected,1,Blue line
+Kirti Nagar,Satguru Ram Singh Marg,Undirected,1,Green line branch
+Kirti Nagar,Shadipur,Undirected,1,Blue line
+Knowledge Park Ii,Noida Sector 148,Undirected,1,Aqua line
+Knowledge Park Ii,Pari Chowk Greater Noida,Undirected,1,Aqua line
+Kohat Enclave,Netaji Subash Place,Undirected,1,Red line
+Kohat Enclave,Pitam Pura,Undirected,1,Red line
+Lajpat Nagar,Moolchand,Undirected,1,Voilet line
+Lajpat Nagar,South Extension,Undirected,1,Pink line
+Lajpat Nagar,Vinobapuri,Undirected,1,Pink line
+Laxmi Nagar,Nirman Vihar,Undirected,1,Blue line branch
+Laxmi Nagar,Yamuna Bank,Undirected,1,Blue line branch
+Lok Kalyan Marg,Udyog Bhawan,Undirected,1,Yellow line
+Madipur,Paschim Vihar,Undirected,1,Green line
+Madipur,Shivaji Park,Undirected,1,Green line
+Maharaja Surajmal Stadium,Nangloi,Undirected,1,Green line
+Maharaja Surajmal Stadium,Udyog Nagar,Undirected,1,Green line
+Major Mohit Sharma,Raj Bagh,Undirected,1,Red line
+Major Mohit Sharma,Shyam Park,Undirected,1,Red line
+Malviya Nagar,Saket,Undirected,1,Yellow line
+Mandawali West Vinod Nagar,Vinod Nagar East,Undirected,1,Pink line
+Mandi House,Supreme Court,Undirected,1,Blue line
+Mansarovar Park,Shahdara,Undirected,1,Red line
+Maya Puri,Naraina Vihar,Undirected,1,Pink line
+Maya Puri,Rajouri Garden,Undirected,1,Pink line
+Mayur Vihar Extention,Mayur Vihar Phase 1,Undirected,1,Blue line
+Mayur Vihar Extention,New Ashok Nagar,Undirected,1,Blue line
+Mayur Vihar Phase 1,Mayur Vihar Pocket I,Undirected,1,Pink line
+Mayur Vihar Phase 1,Sarai Kale Khan Hazrat Nizamuddin,Undirected,1,Pink line
+Mayur Vihar Pocket I,Trilokpuri Sanjay Lake,Undirected,1,Pink line
+Mewala Maharajpur,N H P C Chowk,Undirected,1,Voilet line
+Mewala Maharajpur,Sector 28 Faridabad,Undirected,1,Voilet line
+Mg Road,Sikandarpur,Undirected,1,Yellow line
+Mohan Estate,Sarita Vihar,Undirected,1,Voilet line
+Mohan Estate,Tughlakabad,Undirected,1,Voilet line
+Mohan Nagar,Shyam Park,Undirected,1,Red line
+Moti Nagar,Ramesh Nagar,Undirected,1,Blue line
+Mundka,Mundka Industrial Area,Undirected,1,Green line
+Mundka,Rajdhani Park,Undirected,1,Green line
+Munirka,Rk Puram,Undirected,1,Magenta line
+Munirka,Vasant Vihar,Undirected,1,Magenta line
+N H P C Chowk,Sarai,Undirected,1,Voilet line
+Najafgarh,Nangli,Undirected,1,Gray line
+Nangloi,Nangloi Railway Station,Undirected,1,Green line
+Nangloi Railway Station,Rajdhani Park,Undirected,1,Green line
+Nawada,Uttam Nagar West,Undirected,1,Blue line
+Neelam Chowk Ajronda,Old Faridabad,Undirected,1,Voilet line
+Netaji Subash Place,Shakurpur,Undirected,1,Pink line
+Netaji Subash Place,Shalimar Bagh,Undirected,1,Pink line
+New Ashok Nagar,Noida Sector 15,Undirected,1,Blue line
+New Delhi,Rajiv Chowk,Undirected,1,Yellow line
+New Delhi,Shivaji Stadium,Undirected,1,Orange line
+Nirman Vihar,Preet Vihar,Undirected,1,Blue line branch
+Noida City Center,Noida Sector 34,Undirected,1,Blue line
+Noida Sector 101,Noida Sector 76,Undirected,1,Aqua line
+Noida Sector 101,Noida Sector 81,Undirected,1,Aqua line
+Noida Sector 137,Noida Sector 142,Undirected,1,Aqua line
+Noida Sector 137,Noida Sector 83,Undirected,1,Aqua line
+Noida Sector 142,Noida Sector 143,Undirected,1,Aqua line
+Noida Sector 143,Noida Sector 144,Undirected,1,Aqua line
+Noida Sector 144,Noida Sector 145,Undirected,1,Aqua line
+Noida Sector 145,Noida Sector 146,Undirected,1,Aqua line
+Noida Sector 146,Noida Sector 147,Undirected,1,Aqua line
+Noida Sector 147,Noida Sector 148,Undirected,1,Aqua line
+Noida Sector 15,Noida Sector 16,Undirected,1,Blue line
+Noida Sector 16,Noida Sector 18,Undirected,1,Blue line
+Noida Sector 34,Noida Sector 52,Undirected,1,Blue line
+Noida Sector 50,Noida Sector 51,Undirected,1,Aqua line
+Noida Sector 50,Noida Sector 76,Undirected,1,Aqua line
+Noida Sector 52,Noida Sector 61,Undirected,1,Blue line
+Noida Sector 59,Noida Sector 61,Undirected,1,Blue line
+Noida Sector 59,Noida Sector 62,Undirected,1,Blue line
+Noida Sector 81,Nsez Noida,Undirected,1,Aqua line
+Noida Sector 83,Nsez Noida,Undirected,1,Aqua line
+Okhla Nsic,Sukhdev Vihar,Undirected,1,Magenta line
+Palam,Sadar Bazaar Cantonment,Undirected,1,Magenta line
+Pandit Shree Ram Sharma,Tikri Border,Undirected,1,Green line
+Paschim Vihar,Peera Garhi,Undirected,1,Green line
+Patel Chowk,Rajiv Chowk,Undirected,1,Yellow line
+Patel Nagar,Rajendra Place,Undirected,1,Blue line
+Patel Nagar,Shadipur,Undirected,1,Blue line
+Peera Garhi,Udyog Nagar,Undirected,1,Green line
+Pitam Pura,Rohini East,Undirected,1,Red line
+Pratap Nagar,Pul Bangash,Undirected,1,Red line
+Pratap Nagar,Shastri Nagar,Undirected,1,Red line
+Pul Bangash,Tis Hazari,Undirected,1,Red line
+Punjabi Bagh,Shivaji Park,Undirected,1,Green line
+Punjabi Bagh West,Shakurpur,Undirected,1,Pink line
+Qutab Minar,Saket,Undirected,1,Yellow line
+R K Ashram Marg,Rajiv Chowk,Undirected,1,Blue line
+Raj Bagh,Shaheed Nagar,Undirected,1,Red line
+Raja Nahar Singh,Sant Surdas Sihi,Undirected,1,Voilet line
+Rajouri Garden,Ramesh Nagar,Undirected,1,Blue line
+Rajouri Garden,Tagore Garden,Undirected,1,Blue line
+Rithala,Rohini West,Undirected,1,Red line
+Rohini East,Rohini West,Undirected,1,Red line
+Rohini Sector 18 19,Samaypur Badli,Undirected,1,Yellow line
+Sadar Bazaar Cantonment,Terminal 1 Igi Airport,Undirected,1,Magenta line
+Sector 42 43,Sector 53 54,Undirected,1,Rapid Metro
+Sector 53 54,Sector 54 Chowk,Undirected,1,Rapid Metro
+Sector 54 Chowk,Sector 55 66,Undirected,1,Rapid Metro
+Seelampur,Shastri Park,Undirected,1,Red line
+Seelampur,Welcome,Undirected,1,Red line
+Shahdara,Welcome,Undirected,1,Red line
+Shankar Vihar,Terminal 1 Igi Airport,Undirected,1,Magenta line
+Shankar Vihar,Vasant Vihar,Undirected,1,Magenta line
+Subhash Nagar,Tagore Garden,Undirected,1,Blue line
+Subhash Nagar,Tilak Nagar,Undirected,1,Blue line
+Tikri Border,Tikri Kalan,Undirected,1,Green line
+Trilokpuri Sanjay Lake,Vinod Nagar East,Undirected,1,Pink line
+Uttam Nagar East,Uttam Nagar West,Undirected,1,Blue line
+Vidhan Sabha,Vishwavidyalaya,Undirected,1,Yellow line
+Noida Sector 52,Noida Sector 51,Undirected,1,Interchange (Blue-Aqua)
+Dhaula Kuan,Durgabai Deshmukh South Campus,Undirected,1,Interchange (Orange-Pink)

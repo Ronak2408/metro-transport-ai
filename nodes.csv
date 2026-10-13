@@ -1,0 +1,259 @@
+Id,Num_Lines,Lines,Label,Is_Interchange,latitude,longitude
+Adarsh Nagar,1,Yellow line,Adarsh Nagar,False,28.71642,77.17046
+Aiims,1,Yellow line,Aiims,False,28.56892,77.20771
+Akshardham,1,Blue line,Akshardham,False,28.61806,77.27869
+Alpha 1 Greater Noida,1,Aqua line,Alpha 1 Greater Noida,False,28.4709,77.5127
+Anand Vihar,2,Blue line branch / Pink line,Anand Vihar,True,28.64695,77.31603
+Arjan Garh,1,Yellow line,Arjan Garh,False,28.48076,77.12583
+Arthala,1,Red line,Arthala,False,28.676999,77.3918919
+Ashok Park Main,2,Green line / Green line branch,Ashok Park Main,True,28.67292,77.1442
+Ashram,1,Pink line,Ashram,False,28.5724231,77.2585979
+Azadpur,2,Pink line / Yellow line,Azadpur,True,28.70696,77.18053
+Badarpur Border,1,Voilet line,Badarpur Border,False,28.49334,77.30307
+Badkal Mor,1,Voilet line,Badkal Mor,False,28.422814,77.310278
+Bahdurgarh City,1,Green line,Bahdurgarh City,False,28.6907847,76.9354851
+Barakhamba,1,Blue line,Barakhamba,False,28.63003,77.22436
+Bata Chowk,1,Voilet line,Bata Chowk,False,28.3858361,77.313462
+Belvedere Towers,1,Rapid Metro,Belvedere Towers,False,28.4936,77.0935
+Bhikaji Cama Place,1,Pink line,Bhikaji Cama Place,False,28.56790025,77.18701648
+Botanical Garden,2,Blue line / Magenta line,Botanical Garden,True,28.56409,77.3342
+Brigadier Hoshiar Singh,1,Green line,Brigadier Hoshiar Singh,False,28.6974603,76.9192027
+Central Secretariat,2,Voilet line / Yellow line,Central Secretariat,True,28.61474,77.21191
+Chandni Chowk,1,Yellow line,Chandni Chowk,False,28.65785,77.23014
+Chawri Bazar,1,Yellow line,Chawri Bazar,False,28.64931,77.22637
+Chhattarpur,1,Yellow line,Chhattarpur,False,28.50671,77.17484
+Chirag Delhi,1,Magenta line,Chirag Delhi,False,28.5381411,77.2280694
+Civil Lines,1,Yellow line,Civil Lines,False,28.6768508,77.2250299
+Cyber City,1,Rapid Metro,Cyber City,False,28.4936,77.0935
+Dabri Mor Janakpuri South,1,Magenta line,Dabri Mor Janakpuri South,False,28.6157555,77.085178
+Dashrath Puri,1,Magenta line,Dashrath Puri,False,28.6018751,77.0823561
+Delhi Aerocity,1,Orange line,Delhi Aerocity,False,28.54881,77.12092
+Delhi Cantt,1,Pink line,Delhi Cantt,False,28.5938331,77.13497891
+Delhi Gate,1,Voilet line,Delhi Gate,False,28.6392036,77.2407823
+Delta 1 Greater Noida,1,Aqua line,Delta 1 Greater Noida,False,28.474388,77.50399
+Depot Greater Noida,1,Aqua line,Depot Greater Noida,False,28.474388,77.50399
+Dhaula Kuan,1,Orange line,Dhaula Kuan,False,28.59178,77.16155
+Dilli Haat Ina,2,Pink line / Yellow line,Dilli Haat Ina,True,28.57526,77.20935
+Dilshad Garden,1,Red line,Dilshad Garden,False,28.67592,77.32142
+Dlf Phase 1,1,Rapid Metro,Dlf Phase 1,False,28.4936,77.0935
+Dlf Phase 2,1,Rapid Metro,Dlf Phase 2,False,28.4936,77.0935
+Dlf Phase 3,1,Rapid Metro,Dlf Phase 3,False,28.4936,77.0935
+Durgabai Deshmukh South Campus,1,Pink line,Durgabai Deshmukh South Campus,False,28.5894384,77.1690817
+Dwarka,2,Blue line / Gray line,Dwarka,True,28.61564,77.02197
+Dwarka Mor,1,Blue line,Dwarka Mor,False,28.61932,77.03326
+Dwarka Sector 10,1,Blue line,Dwarka Sector 10,False,28.58068,77.05682
+Dwarka Sector 11,1,Blue line,Dwarka Sector 11,False,28.58657,77.04929
+Dwarka Sector 12,1,Blue line,Dwarka Sector 12,False,28.59232,77.04051
+Dwarka Sector 13,1,Blue line,Dwarka Sector 13,False,28.59722,77.03326
+Dwarka Sector 14,1,Blue line,Dwarka Sector 14,False,28.60223,77.02588
+Dwarka Sector 21,2,Blue line / Orange line,Dwarka Sector 21,True,28.55226,77.05828
+Dwarka Sector 8,1,Blue line,Dwarka Sector 8,False,28.56583,77.06706
+Dwarka Sector 9,1,Blue line,Dwarka Sector 9,False,28.57487,77.06454
+East Azad Nagar,1,Pink line,East Azad Nagar,False,28.6646964,77.284881
+Escorts Mujesar,1,Voilet line,Escorts Mujesar,False,28.3702344,77.3149203
+Esi Basai Darapur,1,Pink line,Esi Basai Darapur,False,28.6580737,77.1272678
+Ghevra Metro Station,1,Green line,Ghevra Metro Station,False,28.6852384,76.9961591
+Ghitorni,1,Yellow line,Ghitorni,False,28.49383,77.14922
+Gnida Office,1,Aqua line,Gnida Office,False,28.474388,77.50399
+Gokulpuri,1,Pink line,Gokulpuri,False,28.7024752,77.2861253
+Golf Course,1,Blue line,Golf Course,False,28.56714,77.34598
+Govind Puri,1,Voilet line,Govind Puri,False,28.54451,77.26401
+Greater Kailash,1,Magenta line,Greater Kailash,False,28.5418777,77.2384553
+Green Park,1,Yellow line,Green Park,False,28.55979,77.20682
+Guru Dronacharya,1,Yellow line,Guru Dronacharya,False,28.48203,77.10232
+Guru Tegh Bahadur Nagar,1,Yellow line,Guru Tegh Bahadur Nagar,False,28.69785,77.20722
+Haiderpur Badli Mor,1,Yellow line,Haiderpur Badli Mor,False,28.7301214,77.1494029
+Hauz Khas,2,Magenta line / Yellow line,Hauz Khas,True,28.54335,77.20667
+Hindon River,1,Red line,Hindon River,False,28.878965,77.4154832
+Huda City Centre,1,Yellow line,Huda City Centre,False,28.45927,77.07268
+Iffco Chowk,1,Yellow line,Iffco Chowk,False,28.47209,77.07175
+Igi Airport,1,Orange line,Igi Airport,False,28.55693,77.08669
+Iit Delhi,1,Magenta line,Iit Delhi,False,28.544788,77.18987
+Inderlok,2,Green line / Red line,Inderlok,True,28.67319,77.16994
+Indraprastha,1,Blue line,Indraprastha,False,28.62051,77.24993
+Ip Extension,1,Pink line,Ip Extension,False,28.6288991,77.31019788
+Ito,1,Voilet line,Ito,False,28.6305091,77.2414363
+Jaffrabad,1,Pink line,Jaffrabad,False,28.6826822,77.2748055
+Jahangirpuri,1,Yellow line,Jahangirpuri,False,28.72592,77.16267
+Jama Masjid,1,Voilet line,Jama Masjid,False,28.65001015,77.23767617
+Jamia Millia Islamia,1,Magenta line,Jamia Millia Islamia,False,28.55849025,77.28116474
+Janak Puri East,1,Blue line,Janak Puri East,False,28.63305,77.08669
+Janak Puri West,2,Blue line / Magenta line,Janak Puri West,True,28.62943,77.07767
+Jangpura,1,Voilet line,Jangpura,False,28.5843,77.23766
+Janpath,1,Voilet line,Janpath,False,28.6088598,77.2181649
+Jasola,1,Voilet line,Jasola,False,28.53824,77.28319
+Jasola Vihar Shaheen Bagh,1,Magenta line,Jasola Vihar Shaheen Bagh,False,28.5458279,77.2966578
+Jawaharlal Nehru Stadium,1,Voilet line,Jawaharlal Nehru Stadium,False,28.5904,77.23326
+Jhandewalan,1,Blue line,Jhandewalan,False,28.64427,77.19988
+Jhil Mil,1,Red line,Jhil Mil,False,28.67579,77.31239
+Johri Enclave,1,Pink line,Johri Enclave,False,28.71288,77.2861253
+Jor Bagh,1,Yellow line,Jor Bagh,False,28.58708,77.21209
+Kailash Colony,1,Voilet line,Kailash Colony,False,28.55527,77.24205
+Kalindi Kunj,1,Magenta line,Kalindi Kunj,False,28.5452187,77.3059891
+Kalkaji Mandir,2,Magenta line / Voilet line,Kalkaji Mandir,True,28.55007,77.25835
+Kanhaiya Nagar,1,Red line,Kanhaiya Nagar,False,28.68254,77.16459
+Karkar Duma,2,Blue line branch / Pink line,Karkar Duma,True,28.64849,77.30558
+Karkarduma Court,1,Pink line,Karkarduma Court,False,28.6536001,77.2957877
+Karol Bagh,1,Blue line,Karol Bagh,False,28.644,77.18855
+Kashmere Gate,3,Red line / Voilet line / Yellow line,Kashmere Gate,True,28.6675,77.22817
+Kaushambi,1,Blue line branch,Kaushambi,False,28.64544,77.32432
+Keshav Puram,1,Red line,Keshav Puram,False,28.68894,77.1616
+Khan Market,1,Voilet line,Khan Market,False,28.60276,77.22829
+Kirti Nagar,2,Blue line / Green line branch,Kirti Nagar,True,28.65575,77.15057
+Knowledge Park Ii,1,Aqua line,Knowledge Park Ii,False,28.4568669,77.50005403
+Kohat Enclave,1,Red line,Kohat Enclave,False,28.6981,77.14024
+Krishna Nagar,1,Pink line,Krishna Nagar,False,28.6578461,77.2901853
+Lajpat Nagar,2,Pink line / Voilet line,Lajpat Nagar,True,28.57079,77.23653
+Lal Quila,1,Voilet line,Lal Quila,False,27.92086195,77.52850191
+Laxmi Nagar,1,Blue line branch,Laxmi Nagar,False,28.63064,77.27749
+Lok Kalyan Marg,1,Yellow line,Lok Kalyan Marg,False,28.59726,77.21088
+Madipur,1,Green line,Madipur,False,28.67734,77.11965
+Maharaja Surajmal Stadium,1,Green line,Maharaja Surajmal Stadium,False,28.6818,77.07385
+Majlis Park,1,Pink line,Majlis Park,False,28.7244312,77.181964
+Major Mohit Sharma,1,Red line,Major Mohit Sharma,False,28.6776112,77.3581426
+Malviya Nagar,1,Yellow line,Malviya Nagar,False,28.52798,77.20565
+Mandawali West Vinod Nagar,1,Pink line,Mandawali West Vinod Nagar,False,28.6249712,77.3044906
+Mandi House,2,Blue line / Voilet line,Mandi House,True,28.62588,77.2341
+Mansarovar Park,1,Red line,Mansarovar Park,False,28.67544,77.30095
+Maujpur,1,Pink line,Maujpur,False,28.69197845,77.27962397
+Maya Puri,1,Pink line,Maya Puri,False,28.6371795,77.1297333
+Mayur Vihar Extention,1,Blue line,Mayur Vihar Extention,False,28.59415815,77.29458935
+Mayur Vihar Phase 1,2,Blue line / Pink line,Mayur Vihar Phase 1,True,28.60442,77.29455
+Mayur Vihar Pocket I,1,Pink line,Mayur Vihar Pocket I,False,28.6058619,77.2987023
+Mewala Maharajpur,1,Voilet line,Mewala Maharajpur,False,28.4418747,77.3023001
+Mg Road,1,Yellow line,Mg Road,False,28.47957,77.08006
+Model Town,1,Yellow line,Model Town,False,28.70278,77.19363
+Mohan Estate,1,Voilet line,Mohan Estate,False,28.51938,77.29388
+Mohan Nagar,1,Red line,Mohan Nagar,False,28.60631905,77.10608185
+Moolchand,1,Voilet line,Moolchand,False,28.56417,77.23423
+Moti Nagar,1,Blue line,Moti Nagar,False,28.65784,77.14248
+Moulsari Avenue,1,Rapid Metro,Moulsari Avenue,False,28.4936,77.0935
+Mundka,1,Green line,Mundka,False,28.68321,77.03133
+Mundka Industrial Area,1,Green line,Mundka Industrial Area,False,28.6834491,77.0171333
+Munirka,1,Magenta line,Munirka,False,28.554886,77.1710841
+N H P C Chowk,1,Voilet line,N H P C Chowk,False,28.45769,77.2219388
+Najafgarh,1,Gray line,Najafgarh,False,28.612304,76.9823908
+Nangli,1,Gray line,Nangli,False,28.6173003,77.0104375
+Nangloi,1,Green line,Nangloi,False,28.68231,77.06471
+Nangloi Railway Station,1,Green line,Nangloi Railway Station,False,28.68208,77.05596
+Naraina Vihar,1,Pink line,Naraina Vihar,False,28.6273375,77.1403175
+Nawada,1,Blue line,Nawada,False,28.62025,77.04514
+Neelam Chowk Ajronda,1,Voilet line,Neelam Chowk Ajronda,False,28.3974824,77.3123599
+Nehru Enclave,1,Magenta line,Nehru Enclave,False,28.5460584,77.2515057
+Nehru Place,1,Voilet line,Nehru Place,False,28.55148,77.25154
+Netaji Subash Place,2,Pink line / Red line,Netaji Subash Place,True,28.69591,77.15226
+New Ashok Nagar,1,Blue line,New Ashok Nagar,False,28.58916,77.30204
+New Delhi,2,Orange line / Yellow line,New Delhi,True,28.64307,77.22144
+Nirman Vihar,1,Blue line branch,Nirman Vihar,False,28.63663,77.28683
+Noida City Center,1,Blue line,Noida City Center,False,28.57466,77.35608
+Noida Sector 101,1,Aqua line,Noida Sector 101,False,28.556402,77.384798
+Noida Sector 137,1,Aqua line,Noida Sector 137,False,28.5090789,77.409015
+Noida Sector 142,1,Aqua line,Noida Sector 142,False,28.4758348,77.55447875
+Noida Sector 143,1,Aqua line,Noida Sector 143,False,28.50266325,77.42625566
+Noida Sector 144,1,Aqua line,Noida Sector 144,False,28.4089049,76.9155232
+Noida Sector 145,1,Aqua line,Noida Sector 145,False,28.4089049,76.9155232
+Noida Sector 146,1,Aqua line,Noida Sector 146,False,28.4082289,76.963024
+Noida Sector 147,1,Aqua line,Noida Sector 147,False,28.4089049,76.9155232
+Noida Sector 148,1,Aqua line,Noida Sector 148,False,28.4758348,77.55447875
+Noida Sector 15,1,Blue line,Noida Sector 15,False,28.58512,77.31139
+Noida Sector 16,1,Blue line,Noida Sector 16,False,28.57819,77.31757
+Noida Sector 18,1,Blue line,Noida Sector 18,False,28.57081,77.32612
+Noida Sector 34,1,Blue line,Noida Sector 34,False,28.4808629,77.0848883
+Noida Sector 50,1,Aqua line,Noida Sector 50,False,28.535517,77.391029
+Noida Sector 51,1,Aqua line,Noida Sector 51,False,28.5857,77.3753
+Noida Sector 52,1,Blue line,Noida Sector 52,False,28.4808629,77.0848883
+Noida Sector 59,1,Blue line,Noida Sector 59,False,28.4808629,77.0848883
+Noida Sector 61,1,Blue line,Noida Sector 61,False,28.4808629,77.0848883
+Noida Sector 62,1,Blue line,Noida Sector 62,False,28.4808629,77.0848883
+Noida Sector 76,1,Aqua line,Noida Sector 76,False,28.568746,77.382685
+Noida Sector 81,1,Aqua line,Noida Sector 81,False,28.6225753,77.3743146
+Noida Sector 83,1,Aqua line,Noida Sector 83,False,28.524115,77.397244
+Nsez Noida,1,Aqua line,Nsez Noida,False,28.535517,77.391029
+Okhla,1,Voilet line,Okhla,False,28.54292,77.27504
+Okhla Bird Sanctuary,1,Magenta line,Okhla Bird Sanctuary,False,28.5529418,77.321595
+Okhla Nsic,1,Magenta line,Okhla Nsic,False,28.5544828,77.2648487
+Okhla Vihar,1,Magenta line,Okhla Vihar,False,28.5613002,77.2919304
+Old Faridabad,1,Voilet line,Old Faridabad,False,28.4808629,77.0848883
+Palam,1,Magenta line,Palam,False,28.5918933,77.0828242
+Panchsheel Park,1,Magenta line,Panchsheel Park,False,28.5433525,77.2140757
+Pandit Shree Ram Sharma,1,Green line,Pandit Shree Ram Sharma,False,28.689281,76.9511988
+Pari Chowk Greater Noida,1,Aqua line,Pari Chowk Greater Noida,False,28.4631285,77.50809851
+Paschim Vihar,1,Green line,Paschim Vihar,False,28.6773,77.11228
+Patel Chowk,1,Yellow line,Patel Chowk,False,28.62295,77.21389
+Patel Nagar,1,Blue line,Patel Nagar,False,28.64498,77.16929
+Peera Garhi,1,Green line,Peera Garhi,False,28.67959,77.09261
+Pitam Pura,1,Red line,Pitam Pura,False,28.70317,77.13223
+Pratap Nagar,1,Red line,Pratap Nagar,False,28.66662,77.19882
+Preet Vihar,1,Blue line branch,Preet Vihar,False,28.64171,77.29543
+Pul Bangash,1,Red line,Pul Bangash,False,28.66636,77.20727
+Punjabi Bagh,1,Green line,Punjabi Bagh,False,28.67289,77.14614
+Punjabi Bagh West,1,Pink line,Punjabi Bagh West,False,28.6703201,77.1420875
+Qutab Minar,1,Yellow line,Qutab Minar,False,28.51302,77.18648
+R K Ashram Marg,1,Blue line,R K Ashram Marg,False,28.63923,77.2084
+Raj Bagh,1,Red line,Raj Bagh,False,28.6408602,77.2094999
+Raja Nahar Singh,1,Voilet line,Raja Nahar Singh,False,28.3400192,77.3164281
+Rajdhani Park,1,Green line,Rajdhani Park,False,28.68221,77.04381
+Rajendra Place,1,Blue line,Rajendra Place,False,28.6425,77.17815
+Rajiv Chowk,2,Blue line / Yellow line,Rajiv Chowk,True,28.63282,77.21826
+Rajouri Garden,2,Blue line / Pink line,Rajouri Garden,True,28.64902,77.1227
+Ramesh Nagar,1,Blue line,Ramesh Nagar,False,28.65274,77.13164
+Rithala,1,Red line,Rithala,False,28.72072,77.10713
+Rk Puram,1,Magenta line,Rk Puram,False,28.5514261,77.1847012
+Rohini East,1,Red line,Rohini East,False,28.7076,77.12591
+Rohini Sector 18 19,1,Yellow line,Rohini Sector 18 19,False,28.7383477,77.1398323
+Rohini West,1,Red line,Rohini West,False,28.71483,77.11467
+Sadar Bazaar Cantonment,1,Magenta line,Sadar Bazaar Cantonment,False,28.5771509,77.1111533
+Saket,1,Yellow line,Saket,False,28.5206,77.20138
+Samaypur Badli,1,Yellow line,Samaypur Badli,False,28.7446158,77.1382654
+Sant Surdas Sihi,1,Voilet line,Sant Surdas Sihi,False,28.3546513,77.3162264
+Sarai,1,Voilet line,Sarai,False,28.6517178,77.2219388
+Sarai Kale Khan Hazrat Nizamuddin,1,Pink line,Sarai Kale Khan Hazrat Nizamuddin,False,28.5887494,77.2572494
+Sarita Vihar,1,Voilet line,Sarita Vihar,False,28.52878,77.28826
+Sarojini Nagar,1,Pink line,Sarojini Nagar,False,28.5741575,77.1953703
+Satguru Ram Singh Marg,1,Green line branch,Satguru Ram Singh Marg,False,28.66199,77.15748
+Sector 28 Faridabad,1,Voilet line,Sector 28 Faridabad,False,28.54525655,77.03257609
+Sector 42 43,1,Rapid Metro,Sector 42 43,False,28.4936,77.0935
+Sector 53 54,1,Rapid Metro,Sector 53 54,False,28.4936,77.0935
+Sector 54 Chowk,1,Rapid Metro,Sector 54 Chowk,False,28.4936,77.0935
+Sector 55 66,1,Rapid Metro,Sector 55 66,False,28.4936,77.0935
+Seelampur,1,Red line,Seelampur,False,28.66989,77.2667
+Shadipur,1,Blue line,Shadipur,False,28.6516,77.15824
+Shahdara,1,Red line,Shahdara,False,28.67345,77.28962
+Shaheed Nagar,1,Red line,Shaheed Nagar,False,28.5307795,77.2120573
+Shaheed Sthal,1,Red line,Shaheed Sthal,False,28.6706109,77.4155822
+Shakurpur,1,Pink line,Shakurpur,False,28.6857668,77.1496094
+Shalimar Bagh,1,Pink line,Shalimar Bagh,False,28.71745265,77.15086655
+Shankar Vihar,1,Magenta line,Shankar Vihar,False,28.55743865,77.13966549
+Shastri Nagar,1,Red line,Shastri Nagar,False,28.66999,77.18169
+Shastri Park,1,Red line,Shastri Park,False,28.668,77.24994
+Shiv Vihar,1,Pink line,Shiv Vihar,False,28.61753755,77.03543017
+Shivaji Park,1,Green line,Shivaji Park,False,28.6749,77.13056
+Shivaji Stadium,1,Orange line,Shivaji Stadium,False,28.62901,77.2119
+Shyam Park,1,Red line,Shyam Park,False,28.6988072,28.6988072
+Sikandarpur,2,Rapid Metro / Yellow line,Sikandarpur,True,28.48182,77.09235
+Sir Vishweshwaraiah Moti Bagh,1,Pink line,Sir Vishweshwaraiah Moti Bagh,False,28.5785326,77.175741
+South Extension,1,Pink line,South Extension,False,28.6517178,77.2219388
+Subhash Nagar,1,Blue line,Subhash Nagar,False,28.64039,77.10495
+Sukhdev Vihar,1,Magenta line,Sukhdev Vihar,False,28.5597477,77.2749004
+Sultanpur,1,Yellow line,Sultanpur,False,28.49927,77.16153
+Supreme Court,1,Blue line,Supreme Court,False,28.62342,77.2425
+Tagore Garden,1,Blue line,Tagore Garden,False,28.64379,77.11284
+Terminal 1 Igi Airport,1,Magenta line,Terminal 1 Igi Airport,False,28.5771509,77.1111533
+Tikri Border,1,Green line,Tikri Border,False,28.6880254,76.9640828
+Tikri Kalan,1,Green line,Tikri Kalan,False,28.6868661,76.9772069
+Tilak Nagar,1,Blue line,Tilak Nagar,False,28.63657,77.09648
+Tis Hazari,1,Red line,Tis Hazari,False,28.66711,77.21653
+Trilokpuri Sanjay Lake,1,Pink line,Trilokpuri Sanjay Lake,False,28.613453,77.3088549
+Tughlakabad,1,Voilet line,Tughlakabad,False,28.50254,77.2993
+Udyog Bhawan,1,Yellow line,Udyog Bhawan,False,28.61166,77.21198
+Udyog Nagar,1,Green line,Udyog Nagar,False,28.6809,77.08077
+Uttam Nagar East,1,Blue line,Uttam Nagar East,False,28.62177,77.05585
+Uttam Nagar West,1,Blue line,Uttam Nagar West,False,28.62481,77.0653
+Vaishali,1,Blue line branch,Vaishali,False,28.64997,77.33974
+Vasant Vihar,1,Magenta line,Vasant Vihar,False,28.56069055,77.16079073
+Vidhan Sabha,1,Yellow line,Vidhan Sabha,False,28.68802,77.2214
+Vinobapuri,1,Pink line,Vinobapuri,False,28.5669763,77.2491906
+Vinod Nagar East,1,Pink line,Vinod Nagar East,False,28.6200437,77.3054069
+Vishwavidyalaya,1,Yellow line,Vishwavidyalaya,False,28.6948,77.21483
+Welcome,2,Pink line / Red line,Welcome,True,28.6718,77.27756
+Yamuna Bank,2,Blue line / Blue line branch,Yamuna Bank,True,28.62331,77.26792
